@@ -1,0 +1,26 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+dataset_raw/*.jpg
+dataset_raw/*.png
+!dataset_raw/.gitkeep
+capturas/
+logs/*.csv
+
+modelos/.cache/
+
+# large binary data/model dirs - keep local only, back these up separately (OneDrive/USB)
+datasets/
+dataset_labeled/
+dataset_ocupacao/
+dataset_validacao/
+modelos/*.pt
+modelos/*.onnx
+modelos/*.pth
+fotos/
+*.png
+*.jpg
+*.jpeg
+*.mp4

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "gancho_1",
+    "xmin": 419,
+    "ymin": 425,
+    "xmax": 470,
+    "ymax": 505
+  },
+  {
+    "id": "gancho_2",
+    "xmin": 647,
+    "ymin": 345,
+    "xmax": 692,
+    "ymax": 395
+  },
+  {
+    "id": "gancho_3",
+    "xmin": 830,
+    "ymin": 329,
+    "xmax": 878,
+    "ymax": 386
+  },
+  {
+    "id": "gancho_4",
+    "xmin": 984,
+    "ymin": 280,
+    "xmax": 1016,
+    "ymax": 323
+  },
+  {
+    "id": "gancho_5",
+    "xmin": 1096,
+    "ymin": 267,
+    "xmax": 1123,
+    "ymax": 301
+  },
+  {
+    "id": "gancho_6",
+    "xmin": 1181,
+    "ymin": 280,
+    "xmax": 1214,
+    "ymax": 324
+  },
+  {
+    "id": "gancho_7",
+    "xmin": 1246,
+    "ymin": 258,
+    "xmax": 1272,
+    "ymax": 290
+  },
+  {
+    "id": "gancho_8",
+    "xmin": 1299,
+    "ymin": 251,
+    "xmax": 1318,
+    "ymax": 276
+  },
+  {
+    "id": "gancho_9",
+    "xmin": 1339,
+    "ymin": 249,
+    "xmax": 1358,
+    "ymax": 270
+  },
+  {
+    "id": "gancho_10",
+    "xmin": 1380,
+    "ymin": 242,
+    "xmax": 1395,
+    "ymax": 268
+  },
+  {
+    "id": "gancho_11",
+    "xmin": 1408,
+    "ymin": 246,
+    "xmax": 1429,
+    "ymax": 277
+  }
+]

@@ -1,0 +1,1 @@
+ERROR: The configuration value specified for TranslateConvergentBodyAs option is not compatible with STEP AP203 and AP214 formats. Convergent body in JT file is not exported to STEP file. Please output STEP AP242 file if you intend to export convergent bodies in JT file  to STEP for downstream workflows.
