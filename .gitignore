@@ -23,4 +23,5 @@ fotos/
 *.png
 *.jpg
 *.jpeg
+!fotos-referencia/*.jpg
 *.mp4
